@@ -1,0 +1,6 @@
+d:war/
+d:data
+i:data/2by2.png
+a:data/bip.mp3
+i:data/digits.png
+i:data/libgdx.png
